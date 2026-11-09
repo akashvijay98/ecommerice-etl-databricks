@@ -40,3 +40,10 @@ The pipeline produces analytical tables supporting revenue analysis, product per
 ## Running the Pipeline
 
 Import the notebooks into a Databricks workspace, configure the Unity Catalog paths, upload the source datasets, and execute the notebooks in Bronze → Silver → Gold order.
+
+
+![Graph](./SCREENSHOTS/EcommerceETLPipelineJob.png)
+
+
+
+![Dashboard](./SCREENSHOTS/DashBoardAnalytics.png)
