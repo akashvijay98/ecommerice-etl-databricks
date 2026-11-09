@@ -36,9 +36,6 @@ Five e-commerce CSV files containing customer, order, product, order-item, and p
 
 The pipeline produces analytical tables supporting revenue analysis, product performance reporting, and country-level sales insights.
 
-## Project Screenshots
-
-Add screenshots of the Databricks tables, pipeline job execution, and dashboard.
 
 ## Running the Pipeline
 
